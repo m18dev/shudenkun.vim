@@ -1,5 +1,10 @@
 ### Notice Last Train Limit.
 
+## Install
+```vim
+NeoBundle "m18dev/shudenkun.vim"
+```
+
 ## Configuration
 ```vim
 let g:last_train_work_place = "溜池山王"
